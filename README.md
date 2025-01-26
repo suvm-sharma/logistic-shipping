@@ -85,5 +85,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 For further queries or contributions, contact:
-- **Email**: support@logistic-shipping.com
-- **GitHub**: [Your GitHub Username](https://github.com/suvm-sharma)
+- **GitHub**: [GitHub](https://github.com/suvm-sharma)
