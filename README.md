@@ -85,4 +85,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 For further queries or contributions, contact:
-- [GitHub]:(https://github.com/suvm-sharma)
+- [GitHub](https://github.com/suvm-sharma)
